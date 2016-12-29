@@ -1,0 +1,19 @@
+{
+  "name": "incred",
+  "version": "0.0.1",
+  "description": "Random experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curran/incred.git"
+  },
+  "author": "Curran Kelleher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curran/incred/issues"
+  },
+  "homepage": "https://github.com/curran/incred#readme"
+}
